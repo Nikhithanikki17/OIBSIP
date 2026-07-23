@@ -104,7 +104,7 @@ The cleaned dataset is ready for further data analysis, visualization, and machi
 
 ## Author
 
-**Niharika Gokinapalli**
+**Nikhitha Neelam**
 
 B.Tech - Computer Science and Engineering
 
