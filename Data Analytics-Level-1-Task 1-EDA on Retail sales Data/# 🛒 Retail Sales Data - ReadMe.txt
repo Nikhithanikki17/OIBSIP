@@ -141,6 +141,6 @@ This project demonstrates how Exploratory Data Analysis can uncover meaningful i
 
 ## 👩‍💻 Author
 
-**Niharika Gokinapalli**
+**Nikhitha Neelam**
 
 Data Analytics Enthusiast | Python | Pandas | Data Visualization | Exploratory Data Analysis
