@@ -243,7 +243,7 @@ This project demonstrates an end-to-end Machine Learning pipeline for detecting 
 
 ## 👩‍💻 Author
 
-**Niharika Gokinapalli**
+**Nikhitha Neelam**
 
 B.Tech – Computer Science and Engineering
 
