@@ -158,7 +158,7 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Niharika Gokinapalli**
+**Nikhitha Neelam**
 
 B.Tech CSE Student
 
