@@ -149,7 +149,7 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Niharika Gokinapalli**
+**Nikhitha Neelam**
 
 B.Tech – Computer Science & Engineering
 
